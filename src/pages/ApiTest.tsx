@@ -8,6 +8,10 @@ const wrap: React.CSSProperties = {
   boxSizing: "border-box",
   fontFamily:
     "system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif",
+
+  display: "flex",
+  alignItems: "center",
+  justifyContent: "center",
 };
 
 const card: React.CSSProperties = {
